@@ -10,9 +10,9 @@
 
 ---
 
-## ⚡ // root@portfolio:~# whoami
+## ⚡ // Sobre mim.txt
 
-E aí! Sou um estudante do **1º ano do Ensino Médio Técnico em Internet**, fascinado por entender o que acontece desde o clique na tela até o processamento no servidor. Minha missão é construir soluções eficientes, seguras e bem estruturadas, unindo desenvolvimento web e infraestrutura de computadores.
+Opa, Sou um estudante do **1º ano do Ensino Médio Técnico em Internet**, fascinado por entender o que acontece desde o clique na tela até o processamento no servidor. Minha missão é construir soluções eficientes, seguras e bem estruturadas, unindo desenvolvimento web e infraestrutura de computadores.
 
 ---
 
